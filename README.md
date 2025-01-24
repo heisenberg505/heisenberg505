@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Jobaín Fabián
 
-<!--
-**heisenberg505/heisenberg505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de Sotfware**
 
-Here are some ideas to get you started:
+:pencil: **Líder de desarrollo de Software**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyeglasses: **Algo geek**
+
+:oncoming_automobile: **Me gustan los autos SEAT**
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/heisenberg505/heisenberg505)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/heisenberg505/angular-springboot-front)
