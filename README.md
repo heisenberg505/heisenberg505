@@ -2,7 +2,7 @@
 
 :computer: **Ingeniero de Sotfware**
 
-:pencil: **Líder de desarrollo de Software**
+:pencil: **Desarrollador de Software**
 
 :eyeglasses: **Algo geek**
 
